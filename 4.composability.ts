@@ -70,3 +70,6 @@ Question:
 1) What did you learn from this problem? Why would we want to refactor the code to be
 like the Composable implementation?
 */
+
+// Answer:
+// 1. Do not repeat yourself (DRY), reusable.
